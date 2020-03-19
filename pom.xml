@@ -111,8 +111,8 @@
                     <assembleDirectory>target</assembleDirectory>
                     <programs>
                         <program>
-                            <mainClass>by.savitski.web.launch.Start</mainClass>
-                            <id>Start</id>
+                            <mainClass>by.savitski.webapp.application.launch.StartApp</mainClass>
+                            <id>StartApp</id>
                         </program>
                     </programs>
                 </configuration>

@@ -1,0 +1,14 @@
+ 2020-02-12 12:03:41.812 [main] INFO  by.igor.web.launch.Main - Start application launch.
+ 2020-02-12 12:03:41.878 [main] INFO  by.igor.web.launch.Main - Temp directory: C:\Users\root\AppData\Local\Temp\tomcat-base-dir7439624689647203143
+ 2020-02-12 12:03:41.879 [main] INFO  by.igor.web.launch.Main - The application will work on port: 8080
+ 2020-02-12 12:03:41.880 [main] INFO  by.igor.web.launch.Main - Web content folder: D:\root\Documents\GitHub\MyWebApp_Tomcat\src\main\webapp
+ 2020-02-12 12:03:42.067 [main] INFO  by.igor.web.launch.Main - Configuring app with basedir: D:\root\Documents\GitHub\MyWebApp_Tomcat\src\main\webapp
+ 2020-02-12 12:03:42.088 [main] INFO  by.igor.web.launch.Main - Loading WEB-INF resources from as 'D:\root\Documents\GitHub\MyWebApp_Tomcat\target\classes'
+ 2020-02-12 12:03:44.607 [main] INFO  by.igor.web.launch.Main - End application launch.
+ 2020-02-12 12:21:37.807 [main] INFO  by.igor.web.launch.Main - Start application launch.
+ 2020-02-12 12:21:37.898 [main] INFO  by.igor.web.launch.Main - Temp directory: C:\Users\root\AppData\Local\Temp\tomcat-base-dir17155509885933939928
+ 2020-02-12 12:21:37.899 [main] INFO  by.igor.web.launch.Main - The application will work on port: 8080
+ 2020-02-12 12:21:37.900 [main] INFO  by.igor.web.launch.Main - Web content folder: D:\root\Documents\GitHub\MyWebApp_Tomcat\src\main\webapp
+ 2020-02-12 12:21:38.082 [main] INFO  by.igor.web.launch.Main - Configuring app with basedir: D:\root\Documents\GitHub\MyWebApp_Tomcat\src\main\webapp
+ 2020-02-12 12:21:38.113 [main] INFO  by.igor.web.launch.Main - Loading WEB-INF resources from as 'D:\root\Documents\GitHub\MyWebApp_Tomcat\target\classes'
+ 2020-02-12 12:21:40.795 [main] INFO  by.igor.web.launch.Main - End application launch.

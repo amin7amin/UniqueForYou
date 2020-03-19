@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN" monitorInterval="3600">
+
+    <Properties>
+        <property name="pattern_console">
+            %d{ HH:mm:ss.SSS} [%t] %-5level %logger{5} - %msg%n
+        </property>
+        <property name="pattern_file">
+            %d{ yyyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{5} - %msg%n
+        </property>
+    </Properties>
+
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="${pattern_console}"/>
+        </Console>
+        <File name="TxtFile" fileName="logs/info.log" bufferedIO="true">
+            <PatternLayout pattern="${pattern_file}"/>
+        </File>
+    </Appenders>
+
+    <Loggers>
+        <Logger name= "by.igor.web.launch" level="info" additivity="true">
+            <AppenderRef ref="Console"/>
+        </Logger>
+        <Root level="info" additivity="false">
+            <AppenderRef ref="TxtFile" />
+        </Root>
+    </Loggers>
+
+</Configuration>

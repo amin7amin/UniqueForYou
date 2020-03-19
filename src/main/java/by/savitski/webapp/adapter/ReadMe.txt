@@ -1,0 +1,1 @@
+Layer Interfase Adapter
