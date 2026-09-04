@@ -17,7 +17,7 @@
         <tomcat.version>10.1.59</tomcat.version>
         <log4j.version>2.17.1</log4j.version>
         <mysql.version>8.0.16</mysql.version>
-        <postgresql.version>42.4.1</postgresql.version>
+        <postgresql.version>42.7.12</postgresql.version>
     </properties>
 
     <dependencies>
